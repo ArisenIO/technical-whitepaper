@@ -1,6 +1,6 @@
 # Arisen Technical White Paper v1.1
-**Author:** ***Jared Rice Sr.***
-**Date Created:** ***September 14th, 2019***
+**Author:** ***Jared Rice Sr.***<br/>
+**Date Created:** ***September 14th, 2019***<br/>
 **Last Modified:** ***November 27th, 2020***
 
 ## Abstract
